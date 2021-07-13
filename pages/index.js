@@ -13,7 +13,7 @@ function ProfileSideBar(propriedades) {
 
 export default function Home() {
   const usuarioAleatorio = 'ssSilas';
-  const pessoasFavoritas = ['juunegreiros', 'omariosouto', 'peas', 'rafaballerini', 'filipefialho']
+  const pessoasFavoritas = ['juunegreiros', 'omariosouto', 'peas', 'rafaballerini', 'SantosCharles']
 
   return (
     <>
